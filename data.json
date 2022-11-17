@@ -1,0 +1,51 @@
+  [{
+      "Movie":"1",
+      "Genere":"Fear",
+      "firstname":"Chadwick",
+      "Author":"Ryan Coogler",
+      "lastname":"Boseman"
+     },
+     {
+      "Movie":"2",
+      "Genere":"Thriller",
+      "firstname":" Tenoch",
+      "Author":"Ryan Coogler",
+      "lastname":"Herata"
+    },
+    {
+      "Movie":"3",
+      "Genere":"Comedy",
+      "firstname":"Letitita",
+      "Author":"Ryan Coogler",
+      "lastname":"Wright"
+     },
+{
+      "Movie":"4",
+      "Genere":"Thriller",
+      "firstname":"Micheal",
+      "Author":"Ryan Coogler",
+      "lastname":"Jordon"
+     },
+{
+      "Movie":"5",
+      "Genere":"Sci-fi",
+      "firstname":"Angella",
+      "Author":"Ryan Coogler",
+      "lastname":"Basetta"
+     },
+{
+      "Movie":"6",
+      "Genere":"Horror",
+      "firstname":"Mabel",
+      "Author":"Ryan Coogler",
+      "lastname":"Canneda"
+     },
+{
+      "Movie":"7",
+      "Genere":"Fictional",
+      "firstname":"Micheal",
+      "Author":"Ryan Coogler",
+      "lastname":"Cloe"
+     }
+
+]
