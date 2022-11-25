@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "Genere":"Fear",
+    "date": "11-11-2022",
+    "Author":"Ryan Coogler",
+    "firstname": "Chadwick",
+    "lastname": "Boseman",
+    "email": "Chadwick@Boseman.com"
+  },
+  {
+    "id": "2",
+    "Genere":"Thriller",
+    "date": "24-11-1909",
+    "Author":"Ryan Coogler",
+    "firstname": "Tenoch",
+    "lastname": "Herata",
+    "email": "Tenoch@Herata.com"
+  },
+  {
+    "id": "3",
+    "Genere":"Comedy",
+    "date": "19-04-1998",
+    "Author":"Ryan Coogler",
+    "firstname": "Letitita",
+    "lastname": "Wright",
+    "email": "Letitita@Wright.com"
+  },
+  {
+    "id": "4",
+    "Genere":"Thriller",
+    "date": "20-05-1992",
+    "Author":"Ryan Coogler",
+    "firstname": "Micheal",
+    "lastname": "Jordon",
+    "email": "Micheal@Jordon.com"
+  },
+  {
+    "id": "5",
+    "Genere":"Sci-fi",
+    "date": "11-10-1989",
+    "Author":"Ryan Coogler",
+    "firstname": "Angella",
+    "lastname": "Mabel",
+    "email": "Angella@Mabel.com"
+  },
+  {
+    "id":"6",
+    "Genere":"Horror",
+    "date": "11-09-1992",
+    "Author":"Ryan Coogler",
+    "firstname":"Micheal",
+    "lastname":"Cloe",
+    "email": "Micheal@cloe.com"
+   },
+{
+    "id":"7",
+    "Genere":"Fictional",
+    "date": "26-03-1999",
+    "Author":"Ryan Coogler",
+    "firstname":"Micheal",
+    "lastname":"Coogler",
+    "email": "Micheal@Coogler.com"
+   }
+]
